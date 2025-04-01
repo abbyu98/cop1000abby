@@ -8,6 +8,7 @@ while a < c:
     b = b + c
 print(a, b, c)
 # The output of code is 5 22 5
+# The while loop continues as long as a is less than c.
 
 # The code initializes three variables d, e, and f with values 4, 6, and 7.
 d = 4
