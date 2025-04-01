@@ -1,5 +1,5 @@
 
-# The while loop condition (d > f) is false (4 > 7 is false), so the loop does not execute.# The code initializes three variables a, b, and c with values 1, 2, and 5.
+# The code initializes three variables a, b, and c with values 1, 2, and 5.
 a = 1
 b = 2
 c = 5
