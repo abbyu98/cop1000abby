@@ -9,7 +9,7 @@ def show_menu():
     print("********************************")
     print("Please Enter the following number below from the following menu:") 
     print("1. PRINT all Authorized Vehicles")  # Print the full list of authorized vehicles
-    print("2. Exit")
+    print("2. Exit") #exit the program
 
 #print vehicles
 def print_vehicles():
