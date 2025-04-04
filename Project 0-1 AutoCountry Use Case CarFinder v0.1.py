@@ -7,8 +7,8 @@ def show_menu():
     print("\n********************************")
     print("AutoCountry Vehicle Finder v0.1")
     print("********************************")
-    print("Please Enter the following number below from the following menu:")
-    print("1. PRINT all Authorized Vehicles")
+    print("Please Enter the following number below from the following menu:") 
+    print("1. PRINT all Authorized Vehicles")  # Print the full list of authorized vehicles
     print("2. Exit")
 
 #print vehicles
@@ -26,7 +26,7 @@ while True:
     if choice == "1":
         print_vehicles()  # Print the list of authorized vehicles
     elif choice == "2":
-        print("\nThank you for using the AutoCountry Vehicle Finder, good-bye!")  # Exit the program
+        print("\nThank you for using the AutoCountry Vehicle Finder, good-bye!")   # Exit the program
     else:
         print("\nInvalid choice, please try again.")  # Handle invalid input
 
